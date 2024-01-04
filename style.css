@@ -1,0 +1,89 @@
+.cent ol{
+    list-style-type: none;
+}
+  .search-section {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    
+    width: 300px;
+  }
+
+  /* Style for the search icon */
+  .search-icon {
+    margin-left: 10px;
+    font-size: 20px;
+  }
+
+  /* Style for the search bar */
+  .search-bar {
+    flex-grow: 1;
+    border:none;
+    padding: 5px;
+  }
+  .sign{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    background-color:#F94A3D;
+    border-radius: 10px;
+  }
+  ::placeholder {
+    color:white;
+    opacity: 1; /* Firefox */
+  }
+  .cent ol li{
+    padding: 10px;
+   
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+  top: 10px;
+  width: 100%;
+    
+  }
+  .nav ol {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .allthree{
+    display: flex;
+  }
+  .allthree img{
+    margin-left: 30px;
+
+  }
+  .allthree input{
+    margin-left: 30px;
+    
+  }
+  .start{
+   
+    background-color: hsl(0, 84%, 85%);
+    
+  }
+  .more{
+
+    width:153px;
+    height:16px;
+    margin-top:256px;
+
+     margin-left:276px
+
+  }
+  .vec{
+    width:524px;
+    height:472px;
+    margin-top:248px;
+
+     margin-left: 254px;
+     border: 1;
+  }
